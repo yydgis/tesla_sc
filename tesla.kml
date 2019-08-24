@@ -1,0 +1,4133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="rov_site">
+<IconStyle>
+<color>ff00f00f</color>
+<scale>2.00</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Style id="rtk_fix">
+<IconStyle>
+<color>ff00ff00</color>
+<scale>0.500</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.230931000,  39.497944000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.813485000,  46.976679000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.249282000,  37.756611000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.819109000,  42.710356000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.357721000,  43.686060000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.318197000,  43.657558000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.612804000,  35.108486000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.446436000,  31.312424000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.560089000,  40.588118000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.381411000,  28.665051000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.465610000,  41.664181000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.390938000,  40.499154000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-101.931467000,  35.189016000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.747716000,  33.866750000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.000326000,  41.699048000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.766522000,  42.241125000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.540338000,  38.980062000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.737253000,  37.963451000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.165632000,  34.179106000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.082823000,  32.754659000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.092363000,  38.887369000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.183491000,  48.212441000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.604495000,  35.531428000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.858507000,  39.204837000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.666378000,  35.486585000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.942864000,  34.785416000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.452989000,  33.917081000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.397130000,  33.793820000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.360172000,  33.846487000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.364340000,  33.848756000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.289364000,  42.706861000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.445105000,  32.627837000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.833059000,  42.203734000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.044460000,  33.514985000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.130253000,  33.481657000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -69.786042000,  44.347885000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.706259000,  30.329275000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.143016000,  25.959456000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.812306000,  44.782882000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.080740000,  35.262655000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.331607000,  35.354643000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.598901000,  39.268577000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-124.398943000,  43.121858000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.253456000,  39.759444000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.085459000,  34.849124000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.529930000,  40.655365000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -91.154637000,  30.423892000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.256378000,  46.378836000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.932241000,  43.622061000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.754463000,  36.913695000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.652524000,  38.249149000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.738413000,  40.913875000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.308473000,  44.035630000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.576462000,  44.212532000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.015682000,  40.265925000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.515625000,  43.689751000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.761368000,  36.226894000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-109.943410000,  45.836260000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-108.604932000,  45.734046000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.902081000,  42.145542000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.807072000,  33.525826000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-109.473842000,  37.625618000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.492616000,  41.016143000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.279420000,  43.592251000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.037440000,  41.722171000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.063300000,  42.325500000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.081003000,  42.347170000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.099330000,  42.344903000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-105.257022000,  40.020289000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.438854000,  36.955196000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.063290000,  45.700070000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.022012000,  42.223016000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.323525000,  27.940665000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.565798000,  42.838443000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.238697000,  39.999842000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.804159000,  35.969600000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -68.734647000,  44.775828000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.261227000,  36.591710000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.828839000,  40.863231000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.974337000,  40.683715000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.963069000,  40.669936000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.956658000,  40.721853000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.622026000,  40.270918000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.556876000,  33.443011000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.188432000,  34.614555000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.695680000,  42.968675000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.994375000,  34.061756000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.311702000,  34.184915000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.511222000,  36.070788000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.793363000,  40.101817000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.338681000,  48.509743000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.507161000,  45.981226000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.397796000,  35.400105000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.820082000,  33.931316000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.403060000,  44.282540000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.076200000,  42.368500000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.574967000,  40.003569000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.821456000,  39.088405000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.119076000,  40.233450000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.266324000,  33.084093000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.152630000,  39.971892000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.681694000,  32.878773000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.766044000,  36.167631000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.532470000,  28.331278000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.977392000,  46.729872000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.259828000,  40.146204000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.110612000,  29.784665000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.642809000,  38.354715000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.765790000,  35.340750000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.493075000,  38.067294000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.195930000,  35.038644000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.416961000,  37.367264000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.804955000,  41.161085000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.644709000,  41.937552000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.619720000,  41.886510000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.646836000,  41.908065000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.639971000,  41.869126000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.802832000,  39.726617000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-100.218676000,  34.432426000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.426532000,  39.162578000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -99.007197000,  32.374263000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.766717000,  43.820391000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.457259000,  39.817478000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.902714000,  47.189262000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.054852000,  45.411899000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.770409000,  41.825379000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.794283000,  47.708479000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-101.054067000,  39.361344000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.824889000,  38.837573000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.252761000,  38.957778000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.950723000,  34.106319000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.000802000,  39.974322000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.537727000,  29.690066000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.058569000,  37.970182000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.515186000,  36.155817000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -91.591467000,  41.680372000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.118460000,  34.327530000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.198400000,  39.926460000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.515537000,  33.826525000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.448248000,  32.068583000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.514787000,  37.928225000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.835579000,  41.220921000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.721114000,  41.585206000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.108327000,  40.683508000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.486900000,  40.322440000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-124.194400000,  41.752393000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.390162000,  33.986765000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.009041000,  37.324431000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.594320000,  43.767154000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.769520000,  32.881141000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.471969000,  37.673992000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.477961000,  41.379441000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.461350000,  41.080103000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.504917000,  41.067306000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.513526000,  41.575888000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.277027000,  39.858702000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.178325000,  42.236461000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.116677000,  30.720702000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.190377000,  26.455624000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-107.760286000,  32.281380000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.166412000,  33.231373000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.794648000,  39.775120000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.151999000,  44.737040000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.333018000,  36.018436000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.547270000,  39.195256000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.112905000,  33.953385000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.121217000,  33.934471000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.462779000,  42.674008000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.925304000,  37.703163000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.092304000,  40.093177000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.664071000,  42.487579000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.102320000,  46.784467000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.444713000,  40.415938000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.379906000,  40.424158000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.497242000,  41.660517000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.137653000,  37.459637000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -91.437110000,  44.770830000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.334113000,  40.544595000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.563468000,  39.137114000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.562619000,  39.393663000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.532486000,  32.760837000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.583790000,  31.883900000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.790859000,  40.836301000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.541620000,  46.976918000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.086345000,  42.049602000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.108063000,  42.170757000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-105.519754000,  40.383820000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-124.188383000,  40.778885000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.985309000,  41.263157000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.683546000,  41.725337000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.065062000,  38.256618000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.052399000,  38.261782000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.784927000,  41.140779000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-108.144266000,  36.766315000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.822461000,  35.009458000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.635893000,  37.473828000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.016125000,  39.957600000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.663194000,  35.174151000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.099993000,  29.697904000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.832615000,  34.190271000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.474333000,  25.456567000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.188130000,  38.642291000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.118344000,  38.647199000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.471410000,  34.151104000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.822860000,  27.600890000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.809942000,  26.607770000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-102.884623000,  30.905995000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.163426000,  41.138488000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.353521000,  32.758363000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.934297000,  33.702750000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.394175000,  42.303647000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.100066000,  40.613216000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.506129000,  38.225925000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -70.104067000,  43.858834000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.944627000,  37.492713000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.984002000,  37.544293000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.910580000,  36.835455000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.787149000,  26.485574000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.376777000,  29.624414000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.202310000,  39.118193000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-108.828094000,  35.505278000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.548525000,  38.696385000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.722194000,  45.025653000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.734081000,  32.943675000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-105.526325000,  44.292984000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.565350000,  37.024450000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.461414000,  37.669760000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.257249000,  34.145132000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.866983000,  40.707998000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.860828000,  42.077163400,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-107.340171000,  39.552676000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-101.725107000,  39.326258000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-100.170592000,  40.917396000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -98.379822000,  40.829973000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-108.604325000,  39.090758000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.533057000,  42.914231000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.324124000,  42.460931000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.220938000,  38.965729000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.140513000,  38.993577000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.908323000,  36.059460000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.635765000,  31.855989000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.306952000,  34.825893000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.671661000,  41.041538000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.673445000,  41.040555000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.849614000,  33.787384000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.063448000,  39.877253000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.231990000,  37.838679000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.853254000,  42.688690000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.017599000,  37.109356000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.609253000,  42.338748000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.733324000,  39.605859000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.641375000,  40.195539000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.237920000,  36.254143000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.823255000,  40.277134000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.674129000,  41.766493000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.330074000,  33.921063000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.623080000,  38.533939000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.643702000,  38.814873000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -99.319142000,  38.900543000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.120366000,  37.667211000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.447790000,  36.329091000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.910711000,  35.970888000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.455223000,  41.201008000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.294428000,  35.706541000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.931370000,  46.009797000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.145558000,  34.922962000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.380447000,  36.989864000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.475065000,  43.110070000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.477768000,  43.109066000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.421547000,  29.980687000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.537839000,  29.867201000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.077716000,  44.536280000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.595021000,  42.395459000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.862482000,  42.843671000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.487125000,  38.410951000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.565944000,  30.716158000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.052050000,  43.485152000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.369265000,  39.040814000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.079590000,  39.702238000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.161222000,  39.765443000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.215029000,  33.741291000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.812644000,  35.646451000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.180149000,  40.804844000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.039955000,  47.548081000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.898765000,  32.194964000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.509111000,  42.428603000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.855619000,  35.660420000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.794875000,  43.463995000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.514067000,  30.060270000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.536872000,  30.253396000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.040469000,  40.721595000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.039834000,  40.727344000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.473399000,  37.047552000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -99.774560000,  30.509233000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.644925000,  39.246302000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.135578000,  40.749014000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -70.558523000,  43.409500000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -70.560760000,  43.411030000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.162687000,  46.198035000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.961818000,  35.987304000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.651504000,  35.993182000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.065592000,  35.191331000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.663625000,  30.790734000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.027428000,  41.941893000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.844399000,  27.493808000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.756350000,  42.216915000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.149634000,  35.901319000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.124752000,  37.073405000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -91.188428000,  43.879042000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.845731000,  39.636287000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.814089000,  40.416210000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.248782000,  30.199071000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.679605000,  30.181405000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.348704000,  33.698633000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.514574000,  42.766531000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-105.618099000,  41.325125000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -99.494240000,  27.555003000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-105.205417000,  35.622048000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.286807000,  36.168464000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.138655000,  36.165906000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.168277000,  36.116648000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.172895000,  36.070704000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.286631000,  36.168822000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.858319000,  39.095382000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.483306000,  39.689252000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.656055000,  47.598476000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.239226000,  42.295745000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.526543000,  39.089761000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.744201000,  42.529592000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.153308000,  38.744310000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.420664000,  38.017955000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.419007000,  37.796979000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.591718000,  44.632492000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.071932000,  40.726668000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.708626000,  39.268975000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-124.010966000,  44.957751000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.679878000,  40.860814000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.667450000,  44.042484000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.450473000,  32.470885000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.410310000,  34.661400000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.961363000,  30.331396000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.840938000,  37.700342000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.329535000,  42.379388000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.113850000,  37.149160000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.061916000,  36.600590000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.873454000,  39.562731000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.264429000,  34.047530000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.979198000,  37.230356000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.673190000,  38.211962000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.991324000,  40.441566000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.472135000,  40.179476000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.376093000,  43.957103000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.002343000,  34.667629000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.452670000,  42.756250000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.032486000,  42.516588000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.271389000,  47.846714000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.517018000,  41.313663000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.625813000,  32.833485000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.689132000,  32.897150000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.306829000,  43.126690000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.319124000,  43.119175000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.686056000,  34.037333000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.965499000,  37.644519000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.562282000,  41.804520000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.057393000,  35.458629000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.393800000,  33.901300000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -71.231750000,  42.013724000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.228683000,  37.782622000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.047912000,  24.726110000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.918512000,  39.877502000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.964097000,  42.291857000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.956810000,  39.485330000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -70.488139000,  41.617554000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.664593000,  41.578330000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.059358000,  43.795551000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -98.259821000,  26.198446000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.329069000,  38.507459000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.858957000,  35.097801000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.671246000,  32.357780000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.343363000,  41.468657000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.194289000,  25.764698000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.194551000,  25.813933000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.192467000,  25.767680000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.194524000,  25.766875000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-102.141137000,  31.947414000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.036133000,  41.238119000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.009059000,  41.245823000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.010522000,  41.246242000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.891445000,  37.434659000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.533986000,  36.893583000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.188630000,  41.717337000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.661193000,  39.020074000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.031924000,  46.914375000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -98.044500000,  43.701129000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-109.552368000,  38.573122000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.118644000,  30.671556000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.174576000,  35.068595000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.055059000,  32.496455000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.976585000,  47.862572000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.898726000,  36.585749000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.676596000,  41.361979000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.953418000,  39.579050000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.317310000,  41.310222000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.315934000,  41.310320000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.076575000,  37.415328000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.636672000,  36.458854000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.712896000,  40.494024000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.196008000,  37.846831000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.631210000,  38.760227000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.955923000,  38.316292000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-100.716887000,  43.886915000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.202959000,  43.155334000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.925179000,  33.704386000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.679625000,  31.651793000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.263886000,  38.235578000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.788834000,  26.144547000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.014435000,  38.785033000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.624329000,  34.850835000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.841003000,  39.678111000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.780488000,  40.912547000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.792820000,  40.661790000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.991869000,  40.717153000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.971685000,  40.753356000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.997302000,  40.717522000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.980414000,  40.780976000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.690168000,  39.663509000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.071324000,  41.499616000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.207467000,  36.860525000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.984738000,  40.508562000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.370249000,  41.802949000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.504514000,  40.439674000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.008780000,  39.612240000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.671387000,  40.314129000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.546513000,  41.107722000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -99.383371000,  43.803197000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.913745000,  42.900046000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.961249000,  44.964892000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.193938000,  29.140981000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-101.709415000,  41.116493000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.259080000,  34.441909000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.651440000,  35.461664000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.795614000,  38.912126000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.199006000,  28.555349000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.466107000,  28.449796000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.605664000,  38.161838000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.592528000,  44.028778000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.861257000,  41.144026000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.782118000,  33.609937000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.178084000,  34.238115000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-101.195857000,  30.706656000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.468041000,  36.924902000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.547843000,  33.825330000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.073976000,  40.957892000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.544872000,  39.263087000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.351359000,  40.849718000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.240969000,  39.821606000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.322563000,  34.242214000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.151048000,  32.274159000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.487007000,  31.400343000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.348783000,  26.007326000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.681980000,  45.646550000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.325935000,  36.289315000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.126115000,  41.348503000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.625023000,  38.242676000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.158569000,  39.951387000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.172246000,  39.961844000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.120898000,  33.667055000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.026803000,  33.511837000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.678125000,  27.846096000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.450709000,  40.779854000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.819634000,  33.078651000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.252444000,  26.108605000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.491829000,  44.704537000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.950428000,  42.518715000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.908226000,  37.700246000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.756116000,  35.850587000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.435248000,  42.899615000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.988946000,  40.141072000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.076212000,  38.511445000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.428935000,  42.998817000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.034603000,  29.108571000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.406743000,  27.312930000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.831666000,  39.600831000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-115.388014000,  35.610678000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.241801000,  33.660784000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.870670000,  40.735082000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.679992000,  43.328388000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.643001000,  35.835539000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.529427000,  34.113584000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.212569000,  44.105601000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-107.210254000,  41.790874000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.367407000,  33.894227000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.794179000,  39.489732000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.085173000,  38.787990000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.695317000,  29.561606000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.353906000,  37.529790000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.368328000,  47.116294000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.937371000,  38.970201000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.376073000,  33.981520000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.332817000,  27.791411000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.325799000,  45.019569000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.595350000,  40.193806000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -92.470924000,  44.006337000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-109.262137000,  41.580815000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.557360000,  40.908505000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.978895000,  42.243893000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.210529000,  38.800860000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.846845000,  35.972904000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.720957000,  38.347624000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -91.801675000,  37.940065000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.994959000,  42.049832000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.908814000,  41.930457000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.866046000,  41.975263000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.266149000,  38.771208000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.906750000,  42.522029000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.497172000,  38.637800000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.428647000,  38.603204000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -70.540289000,  41.781195000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.747913000,  42.153337000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.618699000,  38.877342000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.653963000,  36.715623000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.564890000,  38.401600000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.299376000,  34.084096000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.245440000,  37.503005000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.626864000,  33.436793000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.193699000,  32.902166000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.159545000,  32.719150000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.126390000,  33.020020000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.235400000,  32.952900000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.163314000,  32.768391000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.448715000,  37.798185000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.891112000,  37.244614000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.871401000,  37.258450000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.903660000,  37.339563000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.949106000,  37.321909000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.948644000,  37.321981000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.663090000,  33.498538000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.676216000,  35.265129000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.979685000,  29.827707000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.284340000,  37.558395000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.290110000,  37.544700000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.963391000,  37.762806000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.979850000,  37.774860000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.663187000,  41.410005000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.294371000,  45.402786000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.872041000,  33.775859000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.554099000,  34.430977000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.031442000,  35.611872000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.493640000,  34.014763000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.647997000,  34.947013000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.475763000,  33.485858000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.464374000,  27.386298000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.212853000,  32.135885000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.922986000,  33.623538000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.930557000,  33.623202000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -70.869299000,  42.895248000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.843973000,  36.616970000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.916830000,  46.001010000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.332078000,  47.610024000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.763930000,  34.775560000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.074581000,  48.071064000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-100.248360000,  35.226765000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.746971000,  43.749753000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.076353000,  41.426978000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.451628000,  41.500545000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.732824000,  43.661514000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.956345000,  44.804582000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.754370000,  32.478594000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-102.949669000,  41.115490000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-106.070818000,  39.631467000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.790592000,  43.527668000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.763350000,  42.008864000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.760156000,  30.266552000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.077120000,  40.017517000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.179308000,  44.462860000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.103517000,  36.748516000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.888712000,  40.720352000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.426995000,  40.891909000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.133848000,  32.943473000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.891070000,  44.520573000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.671190000,  39.748868000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.265534000,  37.251836000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.037458000,  44.082607000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.177538000,  38.774366000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.416018000,  29.924286000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.532900000,  38.782160000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -90.493732000,  38.764651000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-113.601737000,  37.126463000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.456352000,  42.056357000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.801966000,  39.768630000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.546435000,  41.068704000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-119.940516000,  38.963432000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -79.043478000,  38.133369000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.191611000,  33.933824000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -78.337848000,  39.004960000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.824915000,  41.343305000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.603229000,  33.137098000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.032893000,  37.373390000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.888901000,  47.192149000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-100.392455000,  32.450591000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.187446000,  43.102424000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.247841000,  30.510908000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.402003000,  27.965335000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -82.481121000,  27.937128000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.312237000,  41.045431000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.836457000,  41.061500000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.946272000,  34.987370000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.152568000,  33.524210000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -87.331737000,  39.443345000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -94.077179000,  33.459926000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.208249000,  45.611941000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.823613000,  34.158348000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.890892000,  34.184617000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -98.185829000,  28.521614000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.532210000,  31.448847000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.782724000,  45.450169000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.093572000,  40.226408000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -83.509201000,  41.721552000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.232243000,  38.069801000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.269008000,  40.684466000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.760267000,  39.044380000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.644040000,  44.744688000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.198576000,  41.709950000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.602742000,  40.060760000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.519352000,  37.134167000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.162100000,  39.321865000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-120.207410000,  39.327438000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-107.251642000,  33.155240000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.803381000,  32.083995000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-110.931033000,  32.325618000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-103.722600000,  35.153960000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -88.700841000,  34.311537000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.500189000,  28.514873000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.050953000,  34.120460000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.455249000,  42.597887000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-123.208604000,  39.148100000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.206857000,  43.113878000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.958136000,  38.366645000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.223418000,  38.131238000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.725100000,  40.664127000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.861435000,  31.034271000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.663762000,  45.721613000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.440128000,  43.028655000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -96.978988000,  28.766853000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.109152000,  31.582287000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -85.723981000,  43.018222000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-102.242160000,  43.994070000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.947684000,  34.756268000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.005613000,  41.537130000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.846005000,  42.969252000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -75.954114000,  43.979585000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.773392000,  36.915621000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -89.662175000,  44.931179000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -98.660120000,  35.538590000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -84.659210000,  39.193617000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -93.806336000,  41.599019000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.759717000,  41.722672000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.325894900,  43.623536000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.664151000,  28.037013000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.955364000,  41.094668000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.092779000,  26.781900000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -72.621435000,  42.130914000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.058998000,  40.738399000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-111.099022000,  44.656089000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-118.013011000,  33.744878000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -80.417167000,  39.018890000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-104.962663000,  42.072517000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -97.333140000,  37.608780000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-112.731503000,  33.970281000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-109.845989000,  32.270148000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.829189000,  34.240825000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-117.746501000,  40.958869000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -74.297322000,  40.535859000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -77.296330000,  38.640820000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-122.881254000,  45.153130000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -95.595647000,  43.633850000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -81.054651000,  36.945693000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-116.835467000,  34.907278000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.854936000,  40.963395000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -76.700866000,  39.910429000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -73.832487000,  41.290501000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-121.647839000,  39.147922000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>-114.619093000,  32.726686000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates> -86.343816000,  39.950751000,        0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#rov_site</styleUrl>
+<Point>
+<coordinates>   0.000000000,   0.000000000,        0.0000</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
